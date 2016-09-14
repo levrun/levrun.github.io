@@ -5,7 +5,7 @@ layout: post
 tags: [java]
 categories: [java]
 ---
-<img src="http://g-ec2.images-amazon.com/images/G/01/social/api-share/amazon_logo_500500._V323939215_.png" width="200" height="200" />
+<img src="http://g-ec2.images-amazon.com/images/G/01/social/api-share/amazon_logo_500500._V323939215_.png" width="500" height="500" />
 
 **Customer Obsession**
 
