@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://levrun.github.io
+title: Awesome
+email: levrun1@gmail.com
+author: levrun
+description: My awesome new site
+paginate: 3
+google_analytics: 
